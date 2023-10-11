@@ -16,7 +16,8 @@ int div(int a, int b){
     return a / b;
 }
 //---------------------------------------------------------------------------------------------------------------------
-int main() {
+int phep_cong_tru_nhan_chia(){
+//int main() {
     int choice, num1, num2;
     do {
         printf("\n\nCalculation Menu\n");
